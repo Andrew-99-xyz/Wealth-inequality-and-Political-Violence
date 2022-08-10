@@ -13,9 +13,18 @@ https://govdata360.worldbank.org/indicators/h821989d5?country=BRA&indicator=4205
 
 [worldbank_gini_data.csv](https://github.com/Andrew-99-xyz/Wealth-inequality-and-Political-Violence/files/9295596/worldbank_gini_data.csv) <-Raw GINI coefficent data
 
-[Worldbank_Religious_Ethnic_Tension.csv](https://github.com/Andrew-99-xyz/Wealth-inequality-and-Political-Violence/files/9295749/Worldbank_Religious_Ethnic_Tension.csv) <-Raw confoudning variable data
+[Worldbank_Religious_Ethnic_Tension.csv](https://github.com/Andrew-99-xyz/Wealth-inequality-and-Political-Violence/files/9295749/Worldbank_Religious_Ethnic_Tension.csv) <-Raw confounding variable data
 
-(ACLED Data will be posted soon)
+(ACLED raw Data will be posted soon)
+
+[2018_gini_pv_v1.csv](https://github.com/Andrew-99-xyz/Wealth-inequality-and-Political-Violence/files/9295785/2018_gini_pv_v1.csv) <-Cleaned in Excel, used in Rstudio
+
+[2018_pv_dataset.csv](https://github.com/Andrew-99-xyz/Wealth-inequality-and-Political-Violence/files/9295790/2018_pv_dataset.csv) <-Cleaned in Excel, used in Rstudio
+
+[religous_ethnic_tension.csv](https://github.com/Andrew-99-xyz/Wealth-inequality-and-Political-Violence/files/9295801/religous_ethnic_tension.csv) <-CLeaned in Excel, used in Rstudio
+
+
+
 
 
 
